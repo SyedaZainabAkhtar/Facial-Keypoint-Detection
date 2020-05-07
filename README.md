@@ -6,10 +6,10 @@ This repository contains project files for Computer Vision, Nanodegree  via [Uda
 
 ## Examples
 + **Detect all faces using Haar Cascade Classifiers using OpenCV**
-<p align="center"> <img src="images/Obamas.png" align="middle" alt="drawing" width="400px"> </p> 
+<p align="center"> <img src="Obamas.png" align="middle" alt="drawing" width="400px"> </p> 
 
 + **Detect facial keypoint with a Convolutional Neural Network**
-<p align="center"> <img src="images/obamas_detected.png" align="middle" alt="drawing" width="300px"> </p>
+<p align="center"> <img src="obamas_detected.png" align="middle" alt="drawing" width="300px"> </p>
 
 ## Project Structure
 The project will be broken up into a few main parts in four Python notebooks:
